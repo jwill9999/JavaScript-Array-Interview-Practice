@@ -477,7 +477,7 @@ The filter() method creates a new array with all elements that pass the test imp
 
 
 #Question 20
-##Using array in question S use map function to return all the species
+##Using array in question 19 use map function to return all the species
 ```
 var types = animals.map(function(animals){
     return animals.species;
